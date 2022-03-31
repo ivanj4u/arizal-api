@@ -16,7 +16,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-        <spring.framework.version>2.1.8.RELEASE</spring.framework.version>
+        <spring.framework.version>2.5.12</spring.framework.version>
         <spring.oauth.version>2.3.5.RELEASE</spring.oauth.version>
         <mysql.version>5.1.39</mysql.version>
         <swagger.version>2.9.2</swagger.version>
